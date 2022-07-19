@@ -1,0 +1,25 @@
+*{
+margin:0px;
+padding:0px;
+box-sizing:border-box;
+}
+.container{
+    width:50%;
+    padding-top:60px;
+}
+.bg{
+    width:100%;
+    z-index:-1;
+    /* padding:60px;
+    padding-left:200px;
+    padding-right:200px */
+}
+.span_s{
+    margin-right: 330px;
+}
+.heading_color{
+    color: rgb(214, 191, 57);
+}
+.header{
+    margin-left:10px;
+}
